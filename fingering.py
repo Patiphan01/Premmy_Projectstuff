@@ -1,5 +1,7 @@
 import cv2
 
+# come comment
+
 # Function to perform actions based on finger count
 def perform_action(finger_count):
     if finger_count == 3:

@@ -1,6 +1,6 @@
 import cv2
 
-# come comment
+# come commen
 
 # Function to perform actions based on finger count
 def perform_action(finger_count):
